@@ -4,8 +4,8 @@
 To install these types into your IDE, add the following to your `pubspec.yaml` file:
 ```yaml
 dependencies:
-  appwrite-function-types:
+  function_types:
     git: 
-      url: https://github.com/appwrite/function-types.git
+      url: https://github.com/appwrite/function_types.git
       ref: dart
 ```
